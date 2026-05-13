@@ -1,0 +1,14 @@
+/home/tatsuya/uefi_builder/target/x86_64-unknown-linux-gnu/debug/deps/serde-6a555488f02bfa66.d: /home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/tatsuya/uefi_builder/target/x86_64-unknown-linux-gnu/debug/build/serde-420f55bb4b59c2e2/out/private.rs
+
+/home/tatsuya/uefi_builder/target/x86_64-unknown-linux-gnu/debug/deps/libserde-6a555488f02bfa66.rlib: /home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/tatsuya/uefi_builder/target/x86_64-unknown-linux-gnu/debug/build/serde-420f55bb4b59c2e2/out/private.rs
+
+/home/tatsuya/uefi_builder/target/x86_64-unknown-linux-gnu/debug/deps/libserde-6a555488f02bfa66.rmeta: /home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/tatsuya/uefi_builder/target/x86_64-unknown-linux-gnu/debug/build/serde-420f55bb4b59c2e2/out/private.rs
+
+/home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/tatsuya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/tatsuya/uefi_builder/target/x86_64-unknown-linux-gnu/debug/build/serde-420f55bb4b59c2e2/out/private.rs:
+
+# env-dep:OUT_DIR=/home/tatsuya/uefi_builder/target/x86_64-unknown-linux-gnu/debug/build/serde-420f55bb4b59c2e2/out
